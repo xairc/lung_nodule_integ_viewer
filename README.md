@@ -10,7 +10,7 @@ pyqt 5
 docker pull likebullet86/luna16_detector
 
 # Using Viewer
-![ex_screenshot](./demo_iomg/lung_integ.png) 
+![ex_screenshot](./demo_img/lung_integ.png) 
 - settings (detector_viewer/xai_viewer.py)
   - self.init_openpath
     - for ct files path 
